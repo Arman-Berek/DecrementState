@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+#A{
+  background-color: red;
+  margin-right:30px;
+}
+#B{
+  background-color: greenyellow;
+}
+div{
+  background-color: bisque;
+}
